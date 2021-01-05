@@ -1,8 +1,8 @@
 # Complain-cell
 This a simple complain cell for institutions. 
-One can complain about certain things here
-I used python 3.8.1
-packages:
+One can complain about certain things here......
+I used python 3.8.1.....
+--------------------packages--------------------
 astroid             2.4.2
 autopep8            1.5.4
 colorama            0.4.4
